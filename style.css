@@ -1,0 +1,13 @@
+body {
+    background-color: #181818;
+}
+
+nav {
+    background-color: #202020;
+}
+
+.card {
+    background-color: #181818;
+    border: none;
+    color: #FFFFFF;
+}
